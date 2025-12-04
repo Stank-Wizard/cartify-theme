@@ -7,11 +7,11 @@ Cartify is a work-in-progress theme for the Nintendo switch that will hopefully 
 ### Regular Cartify theme
 
 <img src="assets/Home Cartify.png" alt=""/>
-<img src="assets/Starting Screen with News Cartify Banned.png" alt=""/>
+<img src="assets/Starting Screen with News Cartify.png" alt=""/>
 
 ### Banned Cartify theme
 <img src="assets/Home Cartify Banned.png" alt=""/>
-<img src="assets/Starting Screen with News Cartify.png" alt=""/>
+<img src="assets/Starting Screen with News Cartify Banned.png" alt=""/>
 
 ### All Software page
 <img src="assets/All Software Cartify.png" alt=""/>
